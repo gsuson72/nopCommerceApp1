@@ -1,0 +1,1 @@
+pytest -v --capture=tee-sys --html=Reports\report.html testCases/test_login.py --browser chrome
